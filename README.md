@@ -1,6 +1,6 @@
 # How do developers who do not major in computer science survive?
 
-## SICP (Structure and Interpretation of Computer Programs) Study 
+## SICP (Structure and Interpretation of Computer Programs) Study-NOTE
 
 ----
 
