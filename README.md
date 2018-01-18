@@ -11,7 +11,7 @@
 
 ### Goal
 
-*Study at least 30 minutes per day
+1. Study at least 30 minutes per day
 
-*Resolve all possible problems and record solutions
+2. Resolve all possible problems and record solutions
     
