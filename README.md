@@ -15,3 +15,9 @@
 
 *Resolve all possible problems and record solutions
     
+
+
+
+#### list
+
+- 2018.01.20 AM 02:32 - AM 03:02 > 1.1.1 ~ 1.1.4
