@@ -10,14 +10,11 @@
 (f 3)
 (f 4)
 (f 5)
-(f 6)
-         
+(f 6) 
+(f 28)         
                
 
-;;(define (F n) ;; iterative process
-;;  (f-iter n 0 1 2 3))
-;;
-;;(define (f-ter n count a b c)
-;;  (if (= count n)
-;;      (+ 
-;;      (
+
+(define (f2 n)
+  (define (f2-iter 3 n)
+    (
